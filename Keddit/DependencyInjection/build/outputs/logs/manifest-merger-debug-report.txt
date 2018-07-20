@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3c97707e7e682de9cd801740234cc720\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf0cea153d4692eec8a89d3a28384198\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\02281da7e034e967616ff557acb362ea\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\919e97091b2677f9c23b1677d30c03e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72a22952fc900040d3c586899c10f7e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bf91f2fb34cf0ca7a390993c0ee1c57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\40957b13d4952e73198d29b4dfb36928\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b526eae6835064aeacb7c981ba6bf293\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4e95ac9e64c40159c458131e952db674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c86d49668d81a72ea6b9238f8870c2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\980af4552b97de0be15948f2b6830b0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\02c7073833f952339a534392af7c978e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\47ababaae2def35efa1747523d61a179\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\93cd4ed9cf43becd91185a2429d999e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16142a83362d0165f54b723f35fc2bea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\916aaf80748faf5541a1c560df2c20a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e40d6a7ef1b0cbf7a402bc837a6f38b9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:3:11-35
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:5:20-62
+application
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:6:3-23:17
+	android:supportsRtl
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:8:7-33
+	android:theme
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:7:7-32
+activity#com.edu.Keddit.MainActivity
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:13:5-22:16
+	android:label
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:15:9-41
+	android:theme
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:14:9-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:17:7-21:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:20:9-69
+	android:name
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml:20:19-66
+uses-sdk
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3c97707e7e682de9cd801740234cc720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3c97707e7e682de9cd801740234cc720\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf0cea153d4692eec8a89d3a28384198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cf0cea153d4692eec8a89d3a28384198\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\02281da7e034e967616ff557acb362ea\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\02281da7e034e967616ff557acb362ea\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\919e97091b2677f9c23b1677d30c03e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\919e97091b2677f9c23b1677d30c03e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72a22952fc900040d3c586899c10f7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\72a22952fc900040d3c586899c10f7e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bf91f2fb34cf0ca7a390993c0ee1c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bf91f2fb34cf0ca7a390993c0ee1c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\40957b13d4952e73198d29b4dfb36928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\40957b13d4952e73198d29b4dfb36928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b526eae6835064aeacb7c981ba6bf293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b526eae6835064aeacb7c981ba6bf293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4e95ac9e64c40159c458131e952db674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4e95ac9e64c40159c458131e952db674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c86d49668d81a72ea6b9238f8870c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5c86d49668d81a72ea6b9238f8870c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\980af4552b97de0be15948f2b6830b0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\980af4552b97de0be15948f2b6830b0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\02c7073833f952339a534392af7c978e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\02c7073833f952339a534392af7c978e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\47ababaae2def35efa1747523d61a179\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\47ababaae2def35efa1747523d61a179\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\93cd4ed9cf43becd91185a2429d999e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\93cd4ed9cf43becd91185a2429d999e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16142a83362d0165f54b723f35fc2bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16142a83362d0165f54b723f35fc2bea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\916aaf80748faf5541a1c560df2c20a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\916aaf80748faf5541a1c560df2c20a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e40d6a7ef1b0cbf7a402bc837a6f38b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Igor.Gerasimov\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e40d6a7ef1b0cbf7a402bc837a6f38b9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Igor.Gerasimov\AndroidStudioProjects\Android_App_With_Kotlin\Keddit\DependencyInjection\src\main\AndroidManifest.xml
